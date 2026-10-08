@@ -1,0 +1,29 @@
+<svg width="1200" height="320" viewBox="0 0 1200 320" fill="none" xmlns="http://www.w3.org/2000/svg">
+<defs>
+  <linearGradient id="bg" x1="0" y1="0" x2="1200" y2="320" gradientUnits="userSpaceOnUse">
+    <stop stop-color="#050B16"/>
+    <stop offset="1" stop-color="#0B1A2B"/>
+  </linearGradient>
+  <linearGradient id="accent" x1="760" y1="40" x2="1110" y2="260" gradientUnits="userSpaceOnUse">
+    <stop stop-color="#26588B"/>
+    <stop offset="1" stop-color="#5EA6E8"/>
+  </linearGradient>
+  <filter id="glow"><feGaussianBlur stdDeviation="18"/></filter>
+</defs>
+<rect width="1200" height="320" rx="28" fill="url(#bg)"/>
+<circle cx="1050" cy="95" r="120" fill="#26588B" opacity=".18" filter="url(#glow)"/>
+<circle cx="980" cy="225" r="85" fill="#5EA6E8" opacity=".08" filter="url(#glow)"/>
+<path d="M790 0H1200V320H720C820 250 855 165 790 0Z" fill="#0D2238"/>
+<path d="M850 0H1200V320H805C895 238 935 150 850 0Z" fill="url(#accent)" opacity=".88"/>
+<path d="M0 274C170 248 220 300 390 274C520 254 575 263 700 250" stroke="#26588B" stroke-width="2" opacity=".55"/>
+<g opacity=".2" stroke="#8DB7DA">
+  <path d="M900 80H1130"/><path d="M880 110H1090"/><path d="M860 140H1050"/>
+  <path d="M900 170H1130"/><path d="M880 200H1090"/><path d="M860 230H1050"/>
+</g>
+<text x="72" y="96" fill="#6FA7D6" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="18" font-weight="800" letter-spacing="5">RENZONAGO · SOFTWARE ENGINEERING</text>
+<text x="72" y="158" fill="#FFFFFF" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="46" font-weight="900">Renzo Narváez González</text>
+<text x="72" y="198" fill="#C1CAD6" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="22" font-weight="600">Full Stack · ERP · Data · APIs · Automation · AI-assisted development</text>
+<text x="72" y="252" fill="#8EA2B8" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="16">Building software around real operational problems.</text>
+<rect x="72" y="274" width="190" height="4" rx="2" fill="#26588B"/>
+<rect x="274" y="274" width="52" height="4" rx="2" fill="#5EA6E8" opacity=".65"/>
+</svg>
