@@ -5,34 +5,37 @@
 ### Ingeniero en Sistemas Computacionales · Desarrollador Full Stack
 
 <p>
-  <a href="https://renzonago.github.io/site/">
-    <img src="https://img.shields.io/badge/PORTAFOLIO-26588B?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portafolio">
-  </a>
-  <a href="https://www.linkedin.com/in/renzo-narvaez">
-    <img src="https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
-  </a>
-  <a href="mailto:renzonago09@gmail.com">
-    <img src="https://img.shields.io/badge/EMAIL-011339?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
-  </a>
+  <a href="https://renzonago.github.io/site/"><img src="https://img.shields.io/badge/PORTAFOLIO-26588B?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portafolio"></a>
+  <a href="https://www.linkedin.com/in/renzo-narvaez"><img src="https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+  <a href="mailto:renzonago09@gmail.com"><img src="https://img.shields.io/badge/EMAIL-011339?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
 </p>
 
 </div>
 
----
-
-## 01 · PERFIL
-
-Desarrollador Full Stack orientado a **software empresarial, digitalización de procesos y datos**.
-
-He participado en el diseño, desarrollo, evolución y soporte de sistemas utilizados en operación real, con experiencia en **ERP, migración de información, dashboards, APIs, automatización y atención directa a usuarios**.
-
-Mi forma de trabajar combina análisis del problema, desarrollo, validación con usuarios y mejora continua.
-
-> **No busco solamente que el software funcione. Busco que resuelva el proceso para el que fue construido.**
+> **Me gusta entender el problema antes de escribir el código.**
+> Cuando el software entra en operación, empieza la siguiente etapa: escuchar, corregir y mejorar.
 
 ---
 
-## 02 · IMPACTO
+<img src="./assets/engineering-loop.svg" alt="Engineering loop: analizar, construir, acompañar y optimizar" width="100%">
+
+---
+
+## 01 · QUIÉN SOY
+
+Soy **Desarrollador Full Stack** con enfoque en software empresarial, automatización y datos.
+
+Mi experiencia se ha construido alrededor de problemas concretos: procesos manuales, información dispersa, usuarios que necesitan una herramienta que realmente les funcione y sistemas que tienen que mantenerse estables después del desarrollo.
+
+Por eso mi perfil mezcla:
+
+`software` · `procesos` · `datos` · `usuarios` · `producción`
+
+No me interesa solamente implementar una funcionalidad; me interesa entender **qué proceso cambia** cuando esa funcionalidad existe.
+
+---
+
+## 02 · LO QUE HE CONSTRUIDO
 
 <table>
 <tr>
@@ -40,28 +43,36 @@ Mi forma de trabajar combina análisis del problema, desarrollo, validación con
 
 ### +200K
 
-registros migrados y estructurados
+**registros**
+
+Migración, depuración y estructuración de información empresarial.
 
 </td>
 <td align="center" width="25%">
 
 ### 2–3 h
 
-proceso operativo transformado
+**proceso**
+
+Un flujo operativo transformado en una solución centralizada.
 
 </td>
 <td align="center" width="25%">
 
 ### ERP
 
-software empresarial en producción
+**producción**
+
+Software empresarial utilizado en operación real.
 
 </td>
 <td align="center" width="25%">
 
-### 2024
+### 2K+
 
-IACOW · etapa nacional
+**diseños**
+
+Procesamiento de imágenes en IACOW.
 
 </td>
 </tr>
@@ -69,70 +80,57 @@ IACOW · etapa nacional
 
 ---
 
-## 03 · EXPERIENCIA
+## 03 · EXPERIENCIA REAL
 
 ### JCB AZTECA · JVJ Technology
-**Desarrollador Full Stack · Diciembre 2024 – Octubre 2026 · Villahermosa, Tabasco**
 
-<div align="right">
+**Desarrollador Full Stack · Diciembre 2024 – Octubre 2026**
+
+Una experiencia centrada en construir y mantener un ERP para **servicios, almacén, ventas y administración**.
+
+**Lo que hice alrededor del sistema**
+- desarrollé y evolucioné módulos;
+- digitalicé flujos de servicios técnicos;
+- trabajé con migración y estructuración de datos;
+- construí dashboards y KPIs;
+- integré APIs y automatizaciones;
+- generé reportes PDF y procesamiento de XML;
+- atendí incidencias y soporte en producción;
+- capacitando y acompañando a usuarios;
+- utilicé IA para análisis, debugging, optimización y documentación.
 
 `PHP` `Laravel` `JavaScript` `MySQL` `APIs` `ERP`
 
-</div>
-
-Trabajé sobre una plataforma ERP orientada a **servicios, almacén, ventas y administración**, participando en distintas etapas del ciclo de vida del sistema.
-
-**Desarrollo**
-- Creación y evolución de módulos orientados a necesidades operativas.
-- Digitalización del flujo de servicios técnicos.
-- Integración de APIs, reportes PDF, automatizaciones y validaciones.
-
-**Datos**
-- Migración, depuración y estructuración de **más de 200,000 registros**.
-- Procesamiento de información empresarial, XML, inventario, clientes, unidades y ventas.
-
-**Operación**
-- Dashboards y KPIs para análisis de ventas, inventario y operación.
-- Soporte técnico, diagnóstico de incidencias y ajustes funcionales.
-- Capacitación y comunicación directa con usuarios y equipos operativos.
-
-**IA aplicada**
-- Uso de IA como apoyo para análisis, depuración, optimización de lógica y documentación técnica.
-
 ---
 
-## 04 · PROYECTOS DESTACADOS
+## 04 · DOS PROYECTOS QUE REPRESENTAN MI PERFIL
 
 <table>
 <tr>
 <td width="50%" valign="top">
 
-<img src="https://raw.githubusercontent.com/RenzoNaGo/site/main/projects/jcb/icono/JCB-Logo.png" alt="JCB" height="72">
+<img src="https://raw.githubusercontent.com/RenzoNaGo/site/main/projects/jcb/icono/JCB-Logo.png" alt="JCB" height="62">
 
 ### ERP JCB AZTECA
 
-Plataforma ERP orientada a la operación empresarial.
+**Construir para operación real.**
 
-`ERP` `Servicios` `Inventario` `Datos` `Dashboards` `APIs`
+ERP + servicios técnicos + inventario + datos + dashboards + soporte.
 
-**Enfoque:** desarrollo de módulos, soporte, usuarios y producción.
-
-<a href="https://renzonago.github.io/site/projects/jcb/">→ Ver caso de estudio</a>
+<a href="https://renzonago.github.io/site/projects/jcb/"><b>→ Ver caso de estudio</b></a>
 
 </td>
 <td width="50%" valign="top">
 
-<img src="https://raw.githubusercontent.com/RenzoNaGo/site/main/projects/iacow/icono/icon_login.jpg" alt="IACOW" height="72">
+<img src="https://raw.githubusercontent.com/RenzoNaGo/site/main/projects/iacow/icono/icon_login.jpg" alt="IACOW" height="62">
 
-### IACOW · Sistema de Gestión Ganadera
+### IACOW
 
-Sistema web desarrollado para la Asociación Ganadera Local de Macuspana.
+**Construir una solución alrededor de un problema específico.**
 
-`Python` `Django` `PostgreSQL` `Vision`
+Django + PostgreSQL + procesamiento de imágenes + automatización.
 
-**Resultados:** +2,000 diseños procesados y proyecto presentado en la etapa nacional de INNOVATECNM 2024.
-
-<a href="https://renzonago.github.io/site/projects/iacow/">→ Ver caso de estudio</a>
+<a href="https://renzonago.github.io/site/projects/iacow/"><b>→ Ver caso de estudio</b></a>
 
 </td>
 </tr>
@@ -140,7 +138,7 @@ Sistema web desarrollado para la Asociación Ganadera Local de Macuspana.
 
 ---
 
-## 05 · STACK
+## 05 · MI STACK
 
 ### Backend
 `PHP` `Laravel` `Phalcon` `Python` `Django` `REST` `JSON`
@@ -154,77 +152,58 @@ Sistema web desarrollado para la Asociación Ganadera Local de Macuspana.
 ### Engineering
 `Git` `GitHub` `PDF Automation` `Data Migration` `Dashboards` `APIs`
 
-### AI
-`AI-assisted development` · análisis · debugging · optimización · documentación
+### IA aplicada
+`analysis` · `debugging` · `logic optimization` · `documentation`
 
 ---
 
-## 06 · CÓMO TRABAJO
+## 06 · CÓMO PIENSO
 
-<table>
-<tr>
-<td align="center" width="25%">
+### 01 — Analizar
 
-### 01
+Antes de programar intento entender el proceso, el contexto y la causa del problema.
 
-**ANALIZAR**
+### 02 — Construir
 
-Entender el problema, el flujo y el contexto.
+Después convierto ese entendimiento en una solución concreta, no solamente en una pieza de código.
 
-</td>
-<td align="center" width="25%">
+### 03 — Acompañar
 
-### 02
+La solución se valida con quienes realmente la utilizan. Aquí entran soporte, capacitación y comunicación.
 
-**CONSTRUIR**
+### 04 — Optimizar
 
-Convertir la necesidad en una solución funcional.
-
-</td>
-<td align="center" width="25%">
-
-### 03
-
-**ACOMPAÑAR**
-
-Validar con usuarios, resolver incidencias y capacitar.
-
-</td>
-<td align="center" width="25%">
-
-### 04
-
-**OPTIMIZAR**
-
-Medir, corregir y mejorar a partir del uso real.
-
-</td>
-</tr>
-</table>
+Cuando el sistema entra en uso aparecen nuevos datos, problemas y oportunidades. Ahí empieza la mejora continua.
 
 ---
 
-## 07 · IA COMO HERRAMIENTA DE INGENIERÍA
+## 07 · IA: PARTE DEL PROCESO, NO SUSTITUTO DEL CRITERIO
 
-Utilizo IA de forma integrada en mi proceso de desarrollo, principalmente como **herramienta de análisis y validación**, no como sustituto del criterio técnico.
+Trabajo con IA de forma intensiva, pero el flujo parte de mi propio análisis:
 
-**Mi flujo habitual:**
-
-`Problema → análisis propio → documentación/contexto → propuesta → IA → pruebas → validación → implementación`
+`Problema → contexto → hipótesis → IA → pruebas → validación → implementación`
 
 La utilizo especialmente para:
-
-- detectar y razonar sobre bugs;
-- revisar lógica y alternativas;
+- investigar alternativas;
+- razonar sobre bugs;
+- revisar lógica;
 - analizar datos y flujos;
 - acelerar implementación y refactorización;
-- generar y mejorar documentación técnica.
+- mejorar documentación.
 
-Trabajo principalmente con **ChatGPT y Claude**, verificando y adaptando sus propuestas antes de incorporarlas al sistema.
+Trabajo principalmente con **ChatGPT y Claude** y verifico/adapto sus propuestas antes de incorporarlas a un sistema.
 
 ---
 
-## 08 · FORMACIÓN
+## 08 · EN CONSTRUCCIÓN
+
+Actualmente estoy ampliando mi stack con **React y TypeScript** y desarrollando proyectos propios para seguir experimentando con arquitectura, interfaces, automatización y nuevas formas de construir software.
+
+`LEARN → BUILD → TEST → REPEAT`
+
+---
+
+## 09 · FORMACIÓN
 
 **Ingeniería en Sistemas Computacionales**  
 Instituto Tecnológico Superior de Macuspana · 2024
@@ -236,24 +215,20 @@ Instituto de Difusión Técnica N.7
 
 ---
 
-## 09 · CONTACTO
-
 <div align="center">
 
-**Disponible para oportunidades profesionales, colaboración y nuevos proyectos.**
+### ¿Qué estoy buscando?
 
-<a href="https://renzonago.github.io/site/">
-  <img src="https://img.shields.io/badge/PORTAFOLIO-26588B?style=for-the-badge&logo=googlechrome&logoColor=white">
-</a>
-<a href="https://www.linkedin.com/in/renzo-narvaez">
-  <img src="https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white">
-</a>
-<a href="mailto:renzonago09@gmail.com">
-  <img src="https://img.shields.io/badge/renzonago09%40gmail.com-011339?style=for-the-badge&logo=gmail&logoColor=white">
-</a>
+**Seguir construyendo software útil, aprender tecnologías nuevas y trabajar cerca de problemas reales.**
+
+<br>
+
+<a href="https://renzonago.github.io/site/"><img src="https://img.shields.io/badge/VER_PORTAFOLIO-4B8ED8?style=for-the-badge&logo=googlechrome&logoColor=white"></a>
+<a href="https://www.linkedin.com/in/renzo-narvaez"><img src="https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+<a href="mailto:renzonago09@gmail.com"><img src="https://img.shields.io/badge/CONTACTAR-011339?style=for-the-badge&logo=gmail&logoColor=white"></a>
 
 <br><br>
 
-<sub>El portafolio contiene los casos de estudio completos, evidencia visual y documentación de los proyectos.</sub>
+<sub>Casos de estudio, evidencia y documentación técnica → <a href="https://renzonago.github.io/site/">renzonago.github.io/site/</a></sub>
 
 </div>
