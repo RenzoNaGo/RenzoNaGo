@@ -1,0 +1,62 @@
+<svg width="1200" height="420" viewBox="0 0 1200 420" fill="none" xmlns="http://www.w3.org/2000/svg">
+<defs>
+  <linearGradient id="bg" x1="40" y1="30" x2="1160" y2="390" gradientUnits="userSpaceOnUse">
+    <stop stop-color="#07111F"/><stop offset="1" stop-color="#0D1E31"/>
+  </linearGradient>
+  <linearGradient id="line" x1="150" y1="210" x2="1050" y2="210" gradientUnits="userSpaceOnUse">
+    <stop stop-color="#26588B"/><stop offset="0.5" stop-color="#62A8E8"/><stop offset="1" stop-color="#26588B"/>
+  </linearGradient>
+  <filter id="glow" x="-50%" y="-50%" width="200%" height="200%">
+    <feGaussianBlur stdDeviation="9" result="blur"/><feMerge><feMergeNode in="blur"/><feMergeNode in="SourceGraphic"/></feMerge>
+  </filter>
+</defs>
+<rect width="1200" height="420" rx="26" fill="url(#bg)"/>
+<path d="M120 210H1080" stroke="url(#line)" stroke-opacity=".28" stroke-width="2" stroke-dasharray="7 9"/>
+<circle cx="180" cy="210" r="8" fill="#62A8E8" filter="url(#glow)"/>
+<circle cx="440" cy="210" r="8" fill="#62A8E8" filter="url(#glow)"/>
+<circle cx="700" cy="210" r="8" fill="#62A8E8" filter="url(#glow)"/>
+<circle cx="960" cy="210" r="8" fill="#62A8E8" filter="url(#glow)"/>
+
+<g>
+<rect x="90" y="95" width="180" height="230" rx="18" fill="#0B1828" stroke="#26588B" stroke-opacity=".55"/>
+<text x="115" y="135" fill="#62A8E8" font-family="Inter,Segoe UI,Arial" font-size="14" font-weight="800" letter-spacing="2">01</text>
+<text x="115" y="178" fill="#F4F8FC" font-family="Inter,Segoe UI,Arial" font-size="24" font-weight="900">ANALIZAR</text>
+<text x="115" y="214" fill="#93A8BC" font-family="Inter,Segoe UI,Arial" font-size="14">Entender el proceso</text>
+<text x="115" y="236" fill="#93A8BC" font-family="Inter,Segoe UI,Arial" font-size="14">antes de convertirlo</text>
+<text x="115" y="258" fill="#93A8BC" font-family="Inter,Segoe UI,Arial" font-size="14">en código.</text>
+<rect x="115" y="284" width="58" height="3" rx="1.5" fill="#26588B"/>
+</g>
+
+<g>
+<rect x="350" y="95" width="180" height="230" rx="18" fill="#0B1828" stroke="#26588B" stroke-opacity=".55"/>
+<text x="375" y="135" fill="#62A8E8" font-family="Inter,Segoe UI,Arial" font-size="14" font-weight="800" letter-spacing="2">02</text>
+<text x="375" y="178" fill="#F4F8FC" font-family="Inter,Segoe UI,Arial" font-size="24" font-weight="900">CONSTRUIR</text>
+<text x="375" y="214" fill="#93A8BC" font-family="Inter,Segoe UI,Arial" font-size="14">Diseñar, desarrollar</text>
+<text x="375" y="236" fill="#93A8BC" font-family="Inter,Segoe UI,Arial" font-size="14">e integrar una solución</text>
+<text x="375" y="258" fill="#93A8BC" font-family="Inter,Segoe UI,Arial" font-size="14">usable.</text>
+<rect x="375" y="284" width="58" height="3" rx="1.5" fill="#26588B"/>
+</g>
+
+<g>
+<rect x="610" y="95" width="180" height="230" rx="18" fill="#0B1828" stroke="#26588B" stroke-opacity=".55"/>
+<text x="635" y="135" fill="#62A8E8" font-family="Inter,Segoe UI,Arial" font-size="14" font-weight="800" letter-spacing="2">03</text>
+<text x="635" y="178" fill="#F4F8FC" font-family="Inter,Segoe UI,Arial" font-size="24" font-weight="900">ACOMPAÑAR</text>
+<text x="635" y="214" fill="#93A8BC" font-family="Inter,Segoe UI,Arial" font-size="14">Escuchar usuarios,</text>
+<text x="635" y="236" fill="#93A8BC" font-family="Inter,Segoe UI,Arial" font-size="14">resolver incidencias</text>
+<text x="635" y="258" fill="#93A8BC" font-family="Inter,Segoe UI,Arial" font-size="14">y validar en operación.</text>
+<rect x="635" y="284" width="58" height="3" rx="1.5" fill="#26588B"/>
+</g>
+
+<g>
+<rect x="870" y="95" width="180" height="230" rx="18" fill="#0B1828" stroke="#26588B" stroke-opacity=".55"/>
+<text x="895" y="135" fill="#62A8E8" font-family="Inter,Segoe UI,Arial" font-size="14" font-weight="800" letter-spacing="2">04</text>
+<text x="895" y="178" fill="#F4F8FC" font-family="Inter,Segoe UI,Arial" font-size="24" font-weight="900">OPTIMIZAR</text>
+<text x="895" y="214" fill="#93A8BC" font-family="Inter,Segoe UI,Arial" font-size="14">Medir, depurar,</text>
+<text x="895" y="236" fill="#93A8BC" font-family="Inter,Segoe UI,Arial" font-size="14">automatizar y mejorar</text>
+<text x="895" y="258" fill="#93A8BC" font-family="Inter,Segoe UI,Arial" font-size="14">el sistema.</text>
+<rect x="895" y="284" width="58" height="3" rx="1.5" fill="#26588B"/>
+</g>
+
+<text x="90" y="55" fill="#62A8E8" font-family="Inter,Segoe UI,Arial" font-size="13" font-weight="800" letter-spacing="4">ENGINEERING LOOP · RENZONAGO</text>
+<text x="90" y="382" fill="#6F879F" font-family="ui-monospace,Menlo,Consolas,monospace" font-size="13">problem → context → solution → validation → production → improvement</text>
+</svg>
