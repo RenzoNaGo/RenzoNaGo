@@ -1,29 +1,15 @@
-<svg width="1200" height="320" viewBox="0 0 1200 320" fill="none" xmlns="http://www.w3.org/2000/svg">
-<defs>
-  <linearGradient id="bg" x1="0" y1="0" x2="1200" y2="320" gradientUnits="userSpaceOnUse">
-    <stop stop-color="#050B16"/>
-    <stop offset="1" stop-color="#0B1A2B"/>
-  </linearGradient>
-  <linearGradient id="accent" x1="760" y1="40" x2="1110" y2="260" gradientUnits="userSpaceOnUse">
-    <stop stop-color="#26588B"/>
-    <stop offset="1" stop-color="#5EA6E8"/>
-  </linearGradient>
-  <filter id="glow"><feGaussianBlur stdDeviation="18"/></filter>
-</defs>
-<rect width="1200" height="320" rx="28" fill="url(#bg)"/>
-<circle cx="1050" cy="95" r="120" fill="#26588B" opacity=".18" filter="url(#glow)"/>
-<circle cx="980" cy="225" r="85" fill="#5EA6E8" opacity=".08" filter="url(#glow)"/>
-<path d="M790 0H1200V320H720C820 250 855 165 790 0Z" fill="#0D2238"/>
-<path d="M850 0H1200V320H805C895 238 935 150 850 0Z" fill="url(#accent)" opacity=".88"/>
-<path d="M0 274C170 248 220 300 390 274C520 254 575 263 700 250" stroke="#26588B" stroke-width="2" opacity=".55"/>
-<g opacity=".2" stroke="#8DB7DA">
-  <path d="M900 80H1130"/><path d="M880 110H1090"/><path d="M860 140H1050"/>
-  <path d="M900 170H1130"/><path d="M880 200H1090"/><path d="M860 230H1050"/>
-</g>
-<text x="72" y="96" fill="#6FA7D6" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="18" font-weight="800" letter-spacing="5">RENZONAGO · SOFTWARE ENGINEERING</text>
-<text x="72" y="158" fill="#FFFFFF" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="46" font-weight="900">Renzo Narváez González</text>
-<text x="72" y="198" fill="#C1CAD6" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="22" font-weight="600">Full Stack · ERP · Data · APIs · Automation · AI-assisted development</text>
-<text x="72" y="252" fill="#8EA2B8" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="16">Building software around real operational problems.</text>
-<rect x="72" y="274" width="190" height="4" rx="2" fill="#26588B"/>
-<rect x="274" y="274" width="52" height="4" rx="2" fill="#5EA6E8" opacity=".65"/>
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="320" viewBox="0 0 1200 320" role="img" aria-labelledby="title desc">
+<title id="title">Renzo Narváez González — Ingeniería de software</title>
+<desc id="desc">Perfil técnico enfocado en sistemas empresariales, automatización y datos</desc>
+<defs><linearGradient id="bg" x1="0" y1="0" x2="1200" y2="320" gradientUnits="userSpaceOnUse"><stop stop-color="#071521"/><stop offset="1" stop-color="#102A3B"/></linearGradient><linearGradient id="accent" x1="840" y1="20" x2="1190" y2="300" gradientUnits="userSpaceOnUse"><stop stop-color="#2B6985"/><stop offset="1" stop-color="#67C7B0"/></linearGradient><pattern id="grid" width="32" height="32" patternUnits="userSpaceOnUse"><path d="M32 0H0V32" stroke="#8CB6C1" stroke-width=".6" opacity=".11" fill="none"/></pattern></defs>
+<rect width="1200" height="320" rx="20" fill="url(#bg)"/><rect width="1200" height="320" rx="20" fill="url(#grid)"/>
+<path d="M812 0H1200V320H745L860 190Z" fill="#12384B" opacity=".65"/>
+<path d="M936 30L1130 30L1160 62V252L1128 286H906L875 253V62Z" stroke="#69BFAF" stroke-width="2" opacity=".65" fill="none"/>
+<path d="M936 81H1100M936 112H1069M936 143H1120M936 174H1034" stroke="#6FC9B2" stroke-width="2" opacity=".38"/>
+<circle cx="1092" cy="221" r="36" fill="none" stroke="url(#accent)" stroke-width="7"/><path d="M1075 221l11 11 21-25" fill="none" stroke="#6DDEBC" stroke-width="5" stroke-linecap="round" stroke-linejoin="round"/>
+<text x="58" y="70" fill="#78CBB6" font-family="Arial, Helvetica, sans-serif" font-size="17" font-weight="700" letter-spacing="3">RENZONAGO  /  SOFTWARE ENGINEERING</text>
+<text x="58" y="139" fill="#FAFCFD" font-family="Arial, Helvetica, sans-serif" font-size="47" font-weight="700">Renzo Narváez González</text>
+<text x="58" y="190" fill="#E5EFF1" font-family="Arial, Helvetica, sans-serif" font-size="23" font-weight="600">Sistemas empresariales · Automatización · Datos</text>
+<text x="58" y="238" fill="#A9C3CB" font-family="Arial, Helvetica, sans-serif" font-size="18">Del análisis de procesos a soluciones reales en producción.</text>
+<rect x="58" y="270" width="340" height="5" rx="2.5" fill="url(#accent)"/>
 </svg>
